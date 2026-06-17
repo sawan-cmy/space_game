@@ -2,7 +2,7 @@
 
 A simple, retro-style arcade game built directly in the terminal using Python's `curses` library. 
 
-![Gameplay Screenshot](./screenshot.png)
+![Gameplay Screenshot](https://raw.githubusercontent.com/sawan-cmy/space_game/assets/screenshot.png)
 
 ## Features
 - **Wave-based Progression:** Enemies speed up and get harder as you progress.
