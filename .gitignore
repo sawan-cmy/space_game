@@ -20,3 +20,8 @@ venv.bak/
 # OS generated files
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Ignored images
+screenshot.png
+*.png

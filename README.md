@@ -2,7 +2,7 @@
 
 A simple, retro-style arcade game built directly in the terminal using Python's `curses` library. 
 
-![Gameplay Screenshot](./Screenshot 2026-06-17 232215.png)
+![Gameplay Screenshot](./screenshot.png)
 
 ## Features
 - **Wave-based Progression:** Enemies speed up and get harder as you progress.
