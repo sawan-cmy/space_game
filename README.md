@@ -32,5 +32,4 @@ python main.py
 - **Q**: Quit the game.
 - **R**: Restart the game after Game Over.
 
-## Screenshots
-(Add any more gameplay screenshots here if you like!)
+
